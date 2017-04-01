@@ -10,3 +10,4 @@ Konu | Kişi
 [Docker](Docker/) | Abdullah Uğraşkan
 [Flexbox](Flexbox/) | Halil İbrahim Nuroğlu
 [Seo İpucuları](Seo/) | Tolgahan Üzün
+[Javascript 101](JavaScript/) | Uğur Oruç / R. Ergenekon Yiğit
