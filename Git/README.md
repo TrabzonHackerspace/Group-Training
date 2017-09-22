@@ -11,10 +11,11 @@
 
 
 ## **Documents**
-* [Orijinal (ENG)](https://git-scm.com/book/en/v2)
-* [Orijinal (TR)](https://git-scm.com/book/tr/v2)
+* [Pro Git (en)](https://git-scm.com/book/en/v2)
+* [Pro Git (tr)](https://git-scm.com/book/tr/v2)
 * [Atlassian](https://www.atlassian.com/git/)
 * [Git Basit Rehber](http://rogerdudler.github.io/git-guide/index.tr.html)
+* [Git Püf Noktaları](https://www.gitbook.com/book/vigo/git-puf-noktalari/details)
 
 
 ## **Pull-Request**
